@@ -12,9 +12,11 @@
    ```bash
    pip install -r requirements.txt
    ```
+3. Run project with Jupyter
    ```bash
    jupyter notebook notebooks/housing_analysis.ipynb
    ```
+4. Run Project with Python
    ```bash
    python scripts/housing_analysis.py
    ```
