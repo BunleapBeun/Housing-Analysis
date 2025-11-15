@@ -11,8 +11,13 @@
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
+   ```
+   ```bash
    jupyter notebook notebooks/housing_analysis.ipynb
+   ```
+   ```bash
    python scripts/housing_analysis.py
+   ```
 
 ## Result
 
