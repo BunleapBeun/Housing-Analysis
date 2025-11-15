@@ -11,3 +11,9 @@
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
+
+## Result
+
+![alt housing_characteristics](output/housing_characteristics.png)
+![alt price_distribution](output/price_distribution.png)
+![alt area_distribution](output/area_distribution.png)
